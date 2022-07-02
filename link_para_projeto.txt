@@ -1,0 +1,2 @@
+Link do projeto no github com o codigo fonte:
+https://github.com/SnowLew/python-random-things
